@@ -1,7 +1,7 @@
 # CEH2
 
  # information gatherig tool 
--nmap, dmitry , httrap , 
+-nmap, dmitry , httrack , 
 
 # information gathering website
 - exploit.db
